@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VentaEntradas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870f38b2611c394639b2a879586d344feb9bfa39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589644759fe6cc3b0eb3a3b265f79fac7abd7d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("VentaEntradas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VentaEntradas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

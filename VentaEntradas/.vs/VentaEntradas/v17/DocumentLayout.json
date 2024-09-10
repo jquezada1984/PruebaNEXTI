@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\core\\domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\core\\domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\migrations\\20240814002353_inicial2024081301.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\migrations\\20240814002353_inicial2024081301.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\infrastructure\\persistence\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\infrastructure\\persistence\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\core\\application\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\core\\application\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|c:\\users\\john_\\source\\repos\\pruebanexti\\ventaentradas\\ventaentradas\\ventaentradas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A59BC8DF-00F4-4692-AC95-4F67983471CA}|VentaEntradas\\VentaEntradas.csproj|solutionrelative:ventaentradas\\ventaentradas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,141 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:05:37.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Controllers\\EventController.cs",
-              "RelativeToolTip": "VentaEntradas\\Controllers\\EventController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAhwCcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:46:01.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Program.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Program.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Program.cs",
-              "RelativeToolTip": "VentaEntradas\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T17:30:25.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Core\\Domain\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Core\\Domain\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Core\\Domain\\Entities\\Event.cs",
-              "RelativeToolTip": "VentaEntradas\\Core\\Domain\\Entities\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T17:08:26.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Core\\Application\\Interfaces\\IEventRepository.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Core\\Application\\Interfaces\\IEventRepository.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Core\\Application\\Interfaces\\IEventRepository.cs",
-              "RelativeToolTip": "VentaEntradas\\Core\\Application\\Interfaces\\IEventRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T17:10:24.581Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "VentaEntradas\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\appsettings.Development.json",
-              "RelativeToolTip": "VentaEntradas\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T21:11:09.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240814002353_Inicial2024081301.cs",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Migrations\\20240814002353_Inicial2024081301.cs",
-              "RelativeDocumentMoniker": "VentaEntradas\\Migrations\\20240814002353_Inicial2024081301.cs",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Migrations\\20240814002353_Inicial2024081301.cs",
-              "RelativeToolTip": "VentaEntradas\\Migrations\\20240814002353_Inicial2024081301.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T00:28:36.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "EventRepository.cs",
               "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\EventRepository.cs",
               "RelativeDocumentMoniker": "VentaEntradas\\Infrastructure\\Persistence\\EventRepository.cs",
               "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\EventRepository.cs",
               "RelativeToolTip": "VentaEntradas\\Infrastructure\\Persistence\\EventRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAADcAAAARAAAA",
+              "ViewState": "AQIAALUAAAAAAAAAAADwv8wAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T17:12:20.665Z"
+              "WhenOpened": "2024-09-10T00:40:06.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\appsettings.json",
-              "RelativeDocumentMoniker": "VentaEntradas\\appsettings.json",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\appsettings.json",
-              "RelativeToolTip": "VentaEntradas\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T20:15:47.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Dockerfile",
-              "RelativeDocumentMoniker": "VentaEntradas\\Dockerfile",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Dockerfile",
-              "RelativeToolTip": "VentaEntradas\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-13T22:13:50.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VentaEntradas.csproj",
-              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\VentaEntradas.csproj",
-              "RelativeDocumentMoniker": "VentaEntradas\\VentaEntradas.csproj",
-              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\VentaEntradas.csproj",
-              "RelativeToolTip": "VentaEntradas\\VentaEntradas.csproj",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\john_\\source\\repos\\PruebaNEXTI\\VentaEntradas\\VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VentaEntradas\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-13T16:57:03.282Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:40:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }
